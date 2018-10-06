@@ -1,0 +1,23 @@
+.box{
+    width: 50%;
+    margin: 100px auto;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.form-group{
+    margin-top: 30px;
+}
+.title{
+    text-align: center;
+}
+
+.checkbox{
+    margin:0;
+    float: right;
+}
+.reg{
+    display: inline-block;
+    float: left;
+}
